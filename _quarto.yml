@@ -1,5 +1,15 @@
 project:
-  title: "play"
+  title: "Sample Book"
+  type: book
+  output-dir: docs
+
+
+book:
+  title: "This is a book"
+  chapters:
+    - index.qmd
+
+
 
 
 
