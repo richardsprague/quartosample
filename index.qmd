@@ -7,7 +7,7 @@ title: "Intro"
 This is a simple page with the following image:
 
 <figure>
-<img src="https://sat02pap004files.storage.live.com/y4mSTENAkquw1j9nDZU2-yUeksjOYjBmN0y-zeZmLpURYrpEcfpb43y4sbxtvUbVSjICDbvFwW_c588NzweuNv1OVLf8tF4aG_CEK2wMv0cQqn9rMVlc8ra6KlJWazoF0xBXVLV3ITBRrzJDZSgfbLzRPKV8dcoQw2tvh3dOHuQ1QnKzgD_cCAaLgh1aK1-ABQx?width=256&height=192&cropmode=none" width="256" height="192" />
-<figcaption>An image</figcaption>
+<img src="https://quarto.org/quarto.png" />
+<figcaption>Caption for Quarto Logo Image</figcaption>
 </figure>
 

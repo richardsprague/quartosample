@@ -9,6 +9,28 @@ book:
   chapters:
     - index.qmd
 
+format:
+  html:
+    theme: flatly
+    embed-resources: true
+    standalone: true
+  docx:
+    fig-align: right
+    toc: true
+    standalone: true
+    extract-media: images
+    from: html
+  pdf:
+    documentclass: scrbook
+    mainfont: "Georgia"
+    
+    
+
+
+
+
+
+
 
 
 
