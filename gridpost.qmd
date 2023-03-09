@@ -1,0 +1,7 @@
+---
+title: "Typical grid"
+listing: 
+    categories: true
+    type: grid
+    sort: date desc
+---

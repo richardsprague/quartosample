@@ -6,8 +6,10 @@ title: "Intro"
 
 This is a simple page with the following image:
 
-<figure>
-<img src="https://quarto.org/quarto.png" />
-<figcaption>Caption for Quarto Logo Image</figcaption>
-</figure>
+
+![Local Image](sampleImage.jpg)
+
+![Caption for Quarto Logo Image](https://quarto.org/quarto.png)
+
+
 

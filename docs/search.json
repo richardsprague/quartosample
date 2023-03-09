@@ -4,6 +4,13 @@
     "href": "index.html",
     "title": "This is a book",
     "section": "",
-    "text": "1 Sample Page\nThis is a simple page with the following image:\n\n\n\nCaption for Quarto Logo Image"
+    "text": "1 Sample Page\nThis is a simple page with the following image:\n\n\n\nLocal Image\n\n\n\n\n\nCaption for Quarto Logo Image"
+  },
+  {
+    "objectID": "gridpost.html",
+    "href": "gridpost.html",
+    "title": "2  Typical grid",
+    "section": "",
+    "text": "Intro\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
