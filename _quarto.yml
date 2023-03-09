@@ -22,7 +22,6 @@ format:
     extract-media: images
     from: html
   pdf:
-    documentclass: scrbook
     mainfont: "Georgia"
     
     
