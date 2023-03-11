@@ -11,6 +11,8 @@ This is a simple page with the following image:
 
 ![Caption for Quarto Logo Image](https://quarto.org/quarto.png)
 
+![Great Pyramid](https://sat02pap004files.storage.live.com/y4m52ot143vPFNPo0C4wwvFwbWGJz9PYvIxAv3aPcZV9KHpimnZ2ErrEafT22gFuFM3lP-nJYiGpwzfq1wJ2X-kPIroYIPqhzYm01Hx6B4x40cPkesS9FVXJvFfkj9mtdBGFOhl1WVJd0xushOybTa9GTYsn-tKZCn7T0IAHSplCK-VBGhncjA-D09aJ-fJ8Ldq?width=256&height=192&cropmode=none&please_make_it=.jpg)
+
 <!-- 
 ![Great Pyramid](https://sat02pap004files.storage.live.com/y4m52ot143vPFNPo0C4wwvFwbWGJz9PYvIxAv3aPcZV9KHpimnZ2ErrEafT22gFuFM3lP-nJYiGpwzfq1wJ2X-kPIroYIPqhzYm01Hx6B4x40cPkesS9FVXJvFfkj9mtdBGFOhl1WVJd0xushOybTa9GTYsn-tKZCn7T0IAHSplCK-VBGhncjA-D09aJ-fJ8Ldq?width=256&height=192&cropmode=none)
 -->

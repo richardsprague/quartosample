@@ -9,18 +9,17 @@ book:
   chapters:
     - index.qmd
     - gridpost.qmd
+    - famous_deaths.qmd
 
 format:
   html:
     theme: flatly
-    embed-resources: true
-    standalone: true
+    # embed-resources: true
   docx:
     fig-align: right
     toc: true
     standalone: true
     extract-media: images
-    from: html
   pdf:
     mainfont: "Georgia"
     
