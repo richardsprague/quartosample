@@ -13,7 +13,7 @@ book:
 format:
   html:
     theme: flatly
-    embed-resources: true
+    # embed-resources: true
     standalone: true
   docx:
     fig-align: right
