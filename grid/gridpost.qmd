@@ -4,5 +4,4 @@ listing:
     categories: true
     type: grid
     sort: date desc
-    feed: true
 ---
