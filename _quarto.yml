@@ -8,8 +8,7 @@ book:
   title: "This is a book"
   chapters:
     - index.qmd
-    - gridpost.qmd
-    - famous_deaths.qmd
+    - grid/gridpost.qmd
 
 format:
   html:
