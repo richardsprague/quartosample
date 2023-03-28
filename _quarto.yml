@@ -1,6 +1,6 @@
 project:
   title: "Sample Book"
-  type: book
+  type: website
   output-dir: docs
 
 
@@ -11,10 +11,33 @@ book:
     - grid/gridpost.qmd
     - grid/famous_deaths.qmd
 
+website:
+  title: "Sample Website"
+  site-url: "https://sample.com"
+  reader-mode: false
+  open-graph: true
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+        - grid/gridpost.qmd
+  page-footer:
+    left: "Copyright 2023 Richard Sprague"
+    right:
+      - icon: github
+        href: https://github.com/richardsprague
+      - icon: twitter
+        href: https://twitter.com/sprague
+
 format:
   html:
     theme: flatly
     # embed-resources: true
+    css: normalize.css
+  epub:
+    css: epub-pandoc.css
   docx:
     fig-align: right
     toc: true
